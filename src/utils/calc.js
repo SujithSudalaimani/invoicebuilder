@@ -1,0 +1,1 @@
+export const lineAmount = (q, r) => (Number(q)||0) * (Number(r)||0)
