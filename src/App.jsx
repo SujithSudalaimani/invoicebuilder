@@ -1,4 +1,4 @@
-import "./app.css";
+// import "./app.css";
 import InvoiceBuilder from "./pages/InvoiceBuilder";
 
 export default function App() {
